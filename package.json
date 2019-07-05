@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "the example ....",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "trsting error\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[e"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "keywords"
+  ],
+  "author": "flora",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
